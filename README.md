@@ -1,14 +1,14 @@
 # 个人博客后台管理系统
 
 基于Vue3、TypeScript和Django实现的个人博客后台管理系统
-<details>
-<summary>点击展开轮播图</summary>
-  
-![图片1](image1.jpg)
-![图片2](image2.jpg)
-![图片3](image3.jpg)
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
+  <img src="images/1.png" style="height: 200px; flex-shrink: 0;">
+  <img src="images/2.png" style="height: 200px; flex-shrink: 0;">
+  <img src="images/3.png" style="height: 200px; flex-shrink: 0;">
+  <img src="images/4.png" style="height: 200px; flex-shrink: 0;">
+  <img src="images/5.png" style="height: 200px; flex-shrink: 0;">
 
-</details>
+</div>
 ## 技术栈
 
 ### 后端
